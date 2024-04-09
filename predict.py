@@ -12,7 +12,7 @@ def open_model(model_path):
         model = pickle.load(model_file)
     return model
 
-model_last = open_model("D:/Kelas/Undip/SI/python/API/model.pkl") 
+model_last = open_model("https://github.com/54RaSuWi/dataset/blob/main/model.pkl") 
 
 # Create application
 app = FastAPI()
