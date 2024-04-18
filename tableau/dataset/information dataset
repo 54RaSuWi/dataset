@@ -1,0 +1,3 @@
+# heart-disease-cleaned-1: cleaned from duplicate
+# heart-disease-cleaned-2: adding three numerical variables that have been transfomed into categorical variable in heart-disease-cleaned-1  
+# heart-disease-cleaned-3: removing the three numerical variables from heart-disease-cleaning-2 dataset
